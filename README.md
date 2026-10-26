@@ -24,64 +24,64 @@ There is no client code here and no client names beyond role labels ("an Irish t
 
 An Irish chartered accountancy and audit firm offered no AI. Adrian built the service line and runs it: a 20-module client platform live in 10 days, EU-only AI processing enforced in code, an AML gate, Irish statute as software, and AI training for the whole firm.
 
-<a href="cases/01-accountancy-saas-live-in-10-days.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/accountancy-saas-live-in-10-days-m.svg">
   <img src="drawings/accountancy-saas-live-in-10-days.svg" alt="System drawing: Client uploads a bill or receipt. Two EU-hosted models extract every field and must agree. VAT number checked against VIES. Bill drafted in Xero for review. Approved payments exported as a SEPA file.">
-</picture></a>
+</picture>
 
 ### [02 / HighCrowd: EU crowdfunding licence, as COO](cases/02-eu-crowdfunding-licence-asf-authorisation.md)
 
 Three years as COO of a regulated real-estate crowdfunding platform. Adrian was the lead on the authorisation and audit with the ASF, built automated KYC and AML onboarding and the investor-protection flows, and the platform received its EU crowdfunding (ECSP) licence in March 2024.
 
-<a href="cases/02-eu-crowdfunding-licence-asf-authorisation.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/eu-crowdfunding-licence-asf-authorisation-m.svg">
   <img src="drawings/eu-crowdfunding-licence-asf-authorisation.svg" alt="System drawing: Investor registers. Identity and AML checks at the payment partner. Entry knowledge test and loss-bearing simulation. Key investment information sheet and reflection period. Investment through segregated fund flows.">
-</picture></a>
+</picture>
 
 ### [03 / 3Descu: factory, platform and MCP server](cases/03-3d-printing-factory-platform-mcp-server.md)
 
 A 0-to-100 story. An EU start-up grant and 5 printers in 2022; today an ISO 9001:2015 certified company with 200+ printers, buyers in 26 of the 27 EU member states, a 57% net margin with no outside equity, its own quoting platform in four languages, and one of the first manufacturing MCP servers.
 
-<a href="cases/03-3d-printing-factory-platform-mcp-server.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/3d-printing-factory-platform-mcp-server-m.svg">
   <img src="drawings/3d-printing-factory-platform-mcp-server.svg" alt="System drawing: Engineer uploads a CAD file, or asks an AI assistant. Mesh analysed in the browser. Price from the calibrated pricing engine. Payment and order confirmation. Production, shipping and portal tracking.">
-</picture></a>
+</picture>
 
 ### [04 / HubSpot to Xero, multi-entity invoicing](cases/04-hubspot-to-xero-multi-entity-invoicing.md)
 
 Automation that moves real money: closed deals become approved Xero invoices in the right legal entity and currency, emailed to the customer and chased until paid. Live since April 2026, about 52 invoices a month under signed approvals.
 
-<a href="cases/04-hubspot-to-xero-multi-entity-invoicing.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/hubspot-to-xero-multi-entity-invoicing-m.svg">
   <img src="drawings/hubspot-to-xero-multi-entity-invoicing.svg" alt="System drawing: Deal marked Closed Won in HubSpot. Routed to the right legal entity and currency. Draft invoice created in that Xero organisation. Finance approves through a signed link. Customer emailed, then reminded until paid.">
-</picture></a>
+</picture>
 
 ### [05 / EU-sovereign financial reporting platform](cases/05-eu-sovereign-financial-reporting-platform.md)
 
 An EU-sovereign financial reporting platform with no US-owned service in the stack: self-hosted in the Netherlands, Microsoft sign-in, Exact Online ledgers turned into board-ready reports for education organisations, and tenant isolation proven by tests.
 
-<a href="cases/05-eu-sovereign-financial-reporting-platform.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/eu-sovereign-financial-reporting-platform-m.svg">
   <img src="drawings/eu-sovereign-financial-reporting-platform.svg" alt="System drawing: Ledger data read from Exact Online. Synced into each tenant's isolated space. Structured by the client's chart-of-accounts workbook. Reports with drill-down to transactions. Plain-language explanation for the board.">
-</picture></a>
+</picture>
 
 ### [06 / Tour-operator Xero prepayments, 107/107](cases/06-xero-prepayment-journals-automation.md)
 
 Supplier bills read, coded and moved from prepayments to expense by arrival month, as draft journals the bookkeeper approves. Matched the bookkeeper's own entries 107 of 107 before go-live.
 
-<a href="cases/06-xero-prepayment-journals-automation.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/xero-prepayment-journals-automation-m.svg">
   <img src="drawings/xero-prepayment-journals-automation.svg" alt="System drawing: Supplier bill arrives in Xero. Fields read and VAT arithmetic checked. Reference and description written to the bill. Draft prepayment journal updated by arrival month. Bookkeeper reviews and posts at month end.">
-</picture></a>
+</picture>
 
 ### [07 / 5-hotel daily revenue reporting](cases/07-hotel-group-daily-revenue-reporting.md)
 
 Six daily reports for five hotels, built from the property-management and point-of-sale exports and matched to the accounting team's own figures, cell by cell, for every hotel.
 
-<a href="cases/07-hotel-group-daily-revenue-reporting.md"><picture>
+<picture>
   <source media="(max-width: 600px)" srcset="drawings/hotel-group-daily-revenue-reporting-m.svg">
   <img src="drawings/hotel-group-daily-revenue-reporting.svg" alt="System drawing: Property and point-of-sale exports arrive by email. Pipeline checks every expected document is present. Source rules applied row by row. Reports written into the accounting templates. Accountants review; missing inputs raise an alert.">
-</picture></a>
+</picture>
 
 ## How this repo is made
 
