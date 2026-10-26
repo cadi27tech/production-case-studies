@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Company | 3Descu (TREIDESCUPRINT SRL), on-demand 3D printing for engineering buyers |
 | Role | Founder. Strategy, P&L, pricing, production and sales. Hired and trained the team. Sole engineer of the software, with AI coding agents. |
@@ -108,7 +108,7 @@ A wrong price either loses the order or loses money on it, and across 2,000+ ord
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Printers | 5, in an apartment (2022) | 200+, in a dedicated production hall |
 | Turnover | 2022, the founding year | x65 by 2025, about EUR 190K, at a 57% net margin |

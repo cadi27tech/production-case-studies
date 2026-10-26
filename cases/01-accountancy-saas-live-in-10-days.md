@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Client | Irish chartered accountancy and audit firm |
 | Role | Director of AI & Business Automation (contractor). Sole owner of AI at the firm, reporting to the principal: scoping, pricing, build, training and support. |
@@ -111,7 +111,7 @@ A regulated profession puts its name on this software. A client document leaving
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | AI offer at the firm | None | Its own AI & Automation service line, with published fee packages |
 | Staff trained in AI | None | The full team (10+), plus an 8-lesson AI Academy |

@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Client | Irish tour operator, delivered through an Irish accountancy firm (case 01) |
 | Role | Architect and builder |
@@ -96,7 +96,7 @@ A wrong journal in a client's ledger is worse than no automation. Anything the s
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Bill references and descriptions | Typed by hand | Written by the daily sync |
 | Prepayment journal | Built by hand at month end | A running draft, updated every morning |

@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Client | Dutch education-sector finance platform |
 | Role | Architect and builder. Hourly and fixed-price phases. |
@@ -102,7 +102,7 @@ Many organisations on one platform, each allowed to see only its own numbers. On
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Board reporting | Manual, per organisation | P&L, balance sheet and cash flow with drill-down, per tenant |
 | Infrastructure phase | 15 to 22 hour band | 19.0 hours |

@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Client | Multi-entity B2B software reseller (US, UK and EU companies), delivered through an Irish accountancy firm (case 01) |
 | Role | Architect and builder |
@@ -100,7 +100,7 @@ Real money in three legal entities. A duplicate invoice to a customer, an invoic
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Deal to invoice | A manual route, broken after a change of accountant | Automated, live since 15 April 2026 |
 | Customer payment fees | Charged on every invoice by the CRM's payments product | An estimated USD 4-7K avoided in five months (estimate) |

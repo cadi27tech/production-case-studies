@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Client | Hospitality group operating in Spain and Romania |
 | Role | Architect and builder. |
@@ -96,7 +96,7 @@ A report that is close is not a report finance can use. The accountants' own fig
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Daily revenue reports | Built by hand from exports | 6 a day, generated, for 5 hotels |
 | Point-of-sale figures | Copied by hand | 100% match on three test days |

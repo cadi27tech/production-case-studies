@@ -11,7 +11,7 @@
 
 <sub>Dashed frame: outside the system. Double frame: a person or a hard check. Bright frame: a result. Orange with a lamp: live in production. Dotted boundary: a zone.</sub>
 
-|  |  |
+| Fact | Detail |
 |---|---|
 | Company | HighCrowd, real-estate crowdfunding platform for retail investors |
 | Role | Chief Operations Officer. Lead on the authorisation process with the ASF, Romania's financial regulator, and owner of the operations behind it. |
@@ -98,7 +98,7 @@ Retail investors' money and a national regulator's audit. A policy that existed 
 
 ## Before and after
 
-|  | Before | After |
+| Area | Before | After |
 |---|---|---|
 | Licence | None: a product without authorisation | ECSP licence, March 2024 |
 | Onboarding per investor (internal measure) | about 45 minutes | about 8 minutes |
